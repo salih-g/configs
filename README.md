@@ -1,3 +1,3 @@
 # Configs
 
-- Install ```sudo gem install iStats ``` for temp
+- Install ```sudo gem install iStats``` for temp

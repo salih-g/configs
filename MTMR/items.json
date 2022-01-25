@@ -34,7 +34,12 @@
 		}
 	},
 	
-	
+	{
+		"type": "staticButton",
+		"title": "bright:",
+		"bordered": false,
+		"align": "right"
+	},
 	{
 		"type": "brightness",
 		"width": 180,

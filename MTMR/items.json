@@ -16,6 +16,7 @@
 		}
 	},
 
+    
 	{
 		"type": "mute",
 		"width": 20,
@@ -32,6 +33,7 @@
 		}
 	},
 
+    
 	{
 		"type": "staticButton",
 		"title": "bright:",
@@ -49,6 +51,7 @@
 	{ "type": "illuminationDown", "bordered": false, "align": "right" },
 	{ "type": "illuminationUp", "bordered": false, "align": "right" },
 
+    
 	{
 		"type": "weather",
 		"refreshInterval": 600,
@@ -60,6 +63,7 @@
 		"width": 75
 	},
 
+    
 	{
 		"type": "appleScriptTitledButton",
 		"bordered": true,
@@ -75,14 +79,7 @@
 		}
 	},
 
-	{
-		"type": "group",
-		"title": "V & L",
-		"align": "left",
-		"bordered": false,
-		"width": 50,
-		"items": [{ "type": "close", "bordered": false, "align": "left" }]
-	},
+    
 	{
         "type": "group",
         "align": "left",
